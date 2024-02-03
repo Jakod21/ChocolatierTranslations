@@ -93,7 +93,7 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">gametitle</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Chocolatero 2: Ingredientes Secretos</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Chocolatier 2: Ingredientes Secretos</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">windowtitle</Data></Cell>
@@ -724,7 +724,7 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">sellall</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Vender todo</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Venderlo todo</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">select_recipe</Data></Cell>
@@ -908,7 +908,7 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">q_raisemood</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Hacer feñoz a %1% (un %2% más)</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Hacer feliz a %1% (un %2% más)</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">q_quest</Data></Cell>
@@ -1188,23 +1188,23 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">cases_per</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">cases per week</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">cajas por semana</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">perweek</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">/wk</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">/sm</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">cases</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Cases</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Cajas</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">mini_time</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">TIME</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">TIEMPO</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">try_again</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Try Again</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Intentarlo otra vez</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">startgame</Data></Cell>
@@ -1224,7 +1224,7 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">machines_onhand</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">This factory is equipped to make:</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Esta fábrica está equipada para hacer:</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">factory_expensive</Data></Cell>
