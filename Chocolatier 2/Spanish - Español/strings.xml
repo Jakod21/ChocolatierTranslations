@@ -93,7 +93,7 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">gametitle</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Chocolatier 2: Secret Ingredients</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Chocolatero 2: Ingredientes Secretos</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">windowtitle</Data></Cell>
@@ -101,15 +101,15 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="63.75">
     <Cell ss:StyleID="s23"><Data ss:Type="String">intro_scroll</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Some 40 years ago, a budding Chocolatier arrived on the scene and helped restore the fortunes of the once-great chocolate empire, Baumeister Confections.&lt;br&gt;&lt;br&gt;The company has once again fallen on hard times. It is the roaring 1920's, and they have simply not kept pace with the spirit of innovation required to stay competitive in today’s confections marketplace.&lt;br&gt;&lt;br&gt;Alexandra Tangye, granddaughter of Evangeline Baumeister, has a grand plan to try to turn things around, but she needs your help…&#10;</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Hace unos 40 años, un Chocolatero en ciernes llegó a la escena y ayudó a restaurar las fortunas del que fue una vez un imperio del chocolate, Confecciones Baumeister.&lt;br&gt;&lt;br&gt;La empresa ha vuelto a caer en momentos difíciles. Son los felices años 1920, y simplemento no han podido mantenerse al día con el espírito innovador requerido para permanecer competitivo en el mercado actual de confecciones.&lt;br&gt;&lt;br&gt;Alexandra Tangye, nieta of Evangeline Baumeister, tiene un gran plan para darle la vuelta a la situación, pero necesita tu ayuda…&#10;</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">welcome_back</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Welcome back, %1%!</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">¡Bienvenido de nuevo, %1%!</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">copyright</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Copyright (c) 2007 PlayFirst, Inc. All Rights Reserved.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Copyright (c) 2007 PlayFirst, Inc. Todos los derechos reservados.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">error</Data></Cell>
@@ -117,27 +117,27 @@
    </Row>
    <Row>
     <Cell ss:StyleID="Default"><Data ss:Type="String">upsell</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">The Baumeisters are back, but in trouble once again! Something is not right at Headquarters, and Alex needs your help! Do you have what it takes to conquer the world through chocolate once again? Download the full version and find out!</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Los Baumiester han vuelto, ¡pero otra vez en problemas! Algo no va bien en la sede, ¡y Alex necesita tu ayuda! ¿Tienes lo que hace falta para reconquistar al mundo con chocolate? ¡Descarga la versión completa y averígualo!</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="Default"><Data ss:Type="String">upsell_factory</Data></Cell>
-    <Cell ss:StyleID="s25"><Data ss:Type="String">In the full version, you set production levels for each recipe in an arcade-style mini-game. Color match ingredients from the factory conveyor belt into trays in a multitude of layouts to make as many chocolates as you can in one minute. For the web version, we've set your production at 15 cases per week. Download the full version and experience the mini-game for yourself!</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">En la versión completa, defines los niveles de producción para cada receta en un minijuego de estilo arcade. Empareja los ingredientes por color desde la cinta transportadora hacia bandejas con múltiples patrones para hacer cuanto más chocolate puedas en un minuto. En la versión web, hemos establecido tu producción en 15 cajas semanales. ¡Descarga la versión completa y prueba el minijuego tú mismo!</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="Default"><Data ss:Type="String">upsell_1</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">2 game modes: Story and Free Play</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">2 modos de juego: Historia y Juego libre</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="Default"><Data ss:Type="String">upsell_2</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">200+ quests through 20 ports</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">200+ retos distribuidos en 20 puertos</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="Default"><Data ss:Type="String">upsell_3</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">72 recipes to acquire</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">72 recetas que adquirir</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="Default"><Data ss:Type="String">download</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Download</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Descargar</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s26"/>
@@ -177,95 +177,95 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">month_1</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">January</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Enero</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">month_2</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">February</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Febrero</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">month_3</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">March</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Marzo</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">month_4</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">April</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Abril</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">month_5</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">May</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Mayo</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">month_6</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">June</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Junio</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">month_7</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">July</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Julio</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">month_8</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">August</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Agosto</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">month_9</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">September</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Septimebre</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">month_10</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">October</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Octubre</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">month_11</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">November</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Noviembre</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">month_12</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">December</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Diciembre</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">rank_0</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Apprentice</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Aprendiz</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">rank_1</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Novice</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Principiante</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">rank_2</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Entrepreneur</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Emprendedor</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">rank_3</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Chocolatier</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Chocolatero</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">rank_4</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Master Chocolatier</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Maestro Chocolatero</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">rank_5</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Chief Executive Officer</Data></Cell>
+     <Cell ss:StyleID="s23"><Data ss:Type="String">Director General</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">rank_5_short</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">CEO</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">DG</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">lbl_messages</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Messages</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Mensajes</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">lbl_factory</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Factory</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Fábrica</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">lbl_status</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Status</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Estado</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">lbl_inventory</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Inventory</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Inventario</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s26"/>
@@ -273,11 +273,11 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">ing_inventory</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">%1% sacks owned</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">%1% sacos en posesión</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">prod_inventory</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">%1% cases owned</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">%1% cajas en posesión</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">in_season</Data></Cell>
