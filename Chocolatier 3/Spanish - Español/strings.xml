@@ -131,11 +131,11 @@
    <Column ss:AutoFitWidth="0" ss:Width="654.75"/>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">windowtitle</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Chocolatero: Decadencia por Diseno</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Chocolatero: Decadencia por Designio</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">gamename</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Chocolatero: Decadencia por Diseño</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Chocolatero: Decadencia por Designio</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">welcome</Data></Cell>
