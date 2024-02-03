@@ -536,11 +536,11 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">story_mode</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">modo historia</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Modo Historia</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">free_mode</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">modo libre</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Modo Libre</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">web_mode</Data></Cell>
