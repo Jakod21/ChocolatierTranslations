@@ -101,7 +101,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="63.75">
     <Cell ss:StyleID="s23"><Data ss:Type="String">intro_scroll</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Hace unos 40 años, un Chocolatero en ciernes llegó a la escena y ayudó a restaurar las fortunas del que fue una vez un imperio del chocolate, Confecciones Baumeister.&lt;br&gt;&lt;br&gt;La empresa ha vuelto a caer en momentos difíciles. Son los felices años 1920, y simplemento no han podido mantenerse al día con el espírito innovador requerido para permanecer competitivo en el mercado actual de confecciones.&lt;br&gt;&lt;br&gt;Alexandra Tangye, nieta of Evangeline Baumeister, tiene un gran plan para darle la vuelta a la situación, pero necesita tu ayuda…&#10;</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Hace unos 40 años, un Chocolatero en ciernes llegó a la escena y ayudó a restaurar las fortunas del que fue una vez un imperio del chocolate, Confecciones Baumeister.&lt;br&gt;&lt;br&gt;La empresa ha vuelto a caer en momentos difíciles. Son los felices años 1920, y simplemente no han podido mantenerse al día con el espíritu innovador requerido para permanecer competitivo en el mercado actual de confecciones.&lt;br&gt;&lt;br&gt;Alexandra Tangye, nieta de Evangeline Baumeister, tiene un gran plan para darle la vuelta a la situación, pero necesita tu ayuda…&#10;</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">welcome_back</Data></Cell>
@@ -117,7 +117,7 @@
    </Row>
    <Row>
     <Cell ss:StyleID="Default"><Data ss:Type="String">upsell</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Los Baumiester han vuelto, ¡pero otra vez en problemas! Algo no va bien en la sede, ¡y Alex necesita tu ayuda! ¿Tienes lo que hace falta para reconquistar al mundo con chocolate? ¡Descarga la versión completa y averígualo!</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Los Baumeister han vuelto, ¡pero otra vez en problemas! Algo no va bien en la sede, ¡y Alex necesita tu ayuda! ¿Tienes lo que hace falta para reconquistar al mundo con chocolate? ¡Descarga la versión completa y averígualo!</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="Default"><Data ss:Type="String">upsell_factory</Data></Cell>
@@ -361,39 +361,39 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">travel_click</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Click to go here.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Cliquee para ir aquí.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">travel_here</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">You are here.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Estás aquí.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">travel_time</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">A %1%-week journey.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Un viaje de %1% semanas.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">travel_price</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">This trip will cost %1%.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Este viaje costará %1%.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">travel_expensive</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">You cannot afford this.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">No puedes costear esto.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">factory_forsale</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Factory For Sale: %1%</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Fábrica en venta: %1%</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">factory_forsale_short</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">For Sale:&lt;br&gt;%1%</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">En venta:&lt;br&gt;%1%</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">factory_perweek</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Making %1% per week</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Haciendo %1% a la semana</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">factory_weeks</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Enough ingredients for %1% full weeks</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Suficientes ingredientes para %1% semanas completas</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">factory_zero</Data></Cell>
@@ -401,11 +401,11 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">factory_short</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Running low on ingredients</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Quedan pocos ingredientes</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">factory_out</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Required ingredients:</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Se necesita:</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">factory_stop</Data></Cell>
@@ -413,11 +413,11 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">factory_low</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">low on %1%</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">queda poco de %1%</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">factory_need</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">out of %1%</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">sin %1%</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">factory_config</Data></Cell>
@@ -768,7 +768,7 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">no_freeplay</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">El %free_mode% está bloqueado hasta que el jugador haya empezado el %story_mode%.&lt;br&gt;&lt;br&gt;Cliquee en %story_mode% para comenzar %gametitle%.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">El modo libre está bloqueado hasta que el jugador haya empezado el modo historia.&lt;br&gt;&lt;br&gt;Cliquee en %story_mode% para comenzar %gametitle%.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s28"><Data ss:Type="String">choose_player_header</Data></Cell>
