@@ -82,119 +82,119 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">sugar</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Sugar</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Azucar</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">milk</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Milk Solids</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Solidos de leche</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">cacao</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Cacao Beans</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Granos de cacao</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">caramel</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Caramel</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Caramelo</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">almond</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Almonds</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Almendras</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">cashew</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Cashew Nuts</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Anacardos</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">hazelnut</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Hazelnuts</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Avellanas</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">macadamia</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Macadamia Nuts</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Nueces de macadamia</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">pecan</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Pecans</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Pacana</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">coconut</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Coconut Shavings</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Coco rallado</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">raspberry</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Raspberries</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Frambuesa</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">cherry</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Bing Cherries</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Cereza bing</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">lemon</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Lemons</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Limones</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">orange</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Oranges</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Naranjas</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">strawberry</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Strawberries</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Fresas</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">banana</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Bananas</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Platanos</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">currant</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Currants</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Pasa de Corinto</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">date</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Dates</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Datiles</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">mango</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Mangoes</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Mangos</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">pumpkin</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Fijian Pumpkin</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Calabaza de Fiyi</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">vanilla</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Vanilla Beans</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Granos de vainilla</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s24"><Data ss:Type="String">coffee</Data></Cell>
-    <Cell ss:StyleID="s24"><Data ss:Type="String">Coffee Beans</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Granos de café</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">mint</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Mint Leaves</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Hojas de menta</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">cinnamon</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Cinnamon Sticks</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Canela en rama</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">anise</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Anise</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Anis</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">ginger</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Fresh Ginger</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Jengibre fresco</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">pepper</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Cayenne Pepper</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Pimienta de cayena</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">saffron</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Saffron</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Azafran</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">clove</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Cloves</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Clavo</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">tea</Data></Cell>
@@ -202,71 +202,71 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">lavender</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Lavender Honey</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Miel de lavanda</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">ma_cacao</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Mahajanga Cacao</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Cacao de Mahajanga</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">sj_cacao</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Costa Rican Cacao</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Cacao costarricense</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">ca_cacao</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Cayenne Cacao</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Cacao de Cayena</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">ab_cacao</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Cote D'Ivoirian Cacao</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Cacao marfileño</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">ja_cacao</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Indonesian Cacao</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Cacao indonesio</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">ph_cacao</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Philippines Cacao</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Cacao filipino</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">am_cacao</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Amazonian Cacao</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Cacao amazonico</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">powder</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Truffle Powder</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Trufa en polvo</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">cognac</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">French Cognac</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Connac francés</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">ant</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Fire Ants</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Hormigas de fuego</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">plantain</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Amazonian Plantains</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Plátano macho del Amazonas</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">berry</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Wild Island Berries</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Bayas silvestres de la isla</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">orchid</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Rare Orchids</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Orquideas raras</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">rose</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Roses</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Rosas</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">carnation</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Carnations</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Claveles</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">tulip</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Assorted Tulips</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Tulipanes variados</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"/>
@@ -274,31 +274,31 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">it_basic</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Basic Ingredients</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Ingredientes basicos</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">it_cacao</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Cacao Varieties</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Variedades de cacao</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">it_nut</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Nuts</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Frutos secos</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">it_fruit</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Fruits</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Frutas</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">it_flavor</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Spices and Flavors</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Especias y sabores</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">it_flower</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Flowers</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Flores</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">it_secret</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Secret Ingredients</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Ingredientes secretos</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"/>
@@ -306,7 +306,7 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">square</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Squares</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Cuadrados</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">square_intro</Data></Cell>
@@ -314,7 +314,7 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">infusion</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Infusions</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Infusiones</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">infusion_intro</Data></Cell>
@@ -322,7 +322,7 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">sauce</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Sauces</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Salsas</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">sauce_intro</Data></Cell>
@@ -338,7 +338,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="12">
     <Cell ss:StyleID="s23"><Data ss:Type="String">truffle</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Truffles</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Trufas</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">truffle_intro</Data></Cell>
@@ -346,7 +346,7 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s24"><Data ss:Type="String">exotic</Data></Cell>
-    <Cell ss:StyleID="s24"><Data ss:Type="String">Exotics</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Exoticos</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s24"><Data ss:Type="String">exotic_intro</Data></Cell>
@@ -358,7 +358,7 @@
    </Row>
    <Row>
     <Cell ss:StyleID="Default"><Data ss:Type="String">b_01</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Basic Squares</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Cuadrados basicos</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="Default"><Data ss:Type="String">b_01_desc</Data></Cell>
@@ -366,7 +366,7 @@
    </Row>
    <Row>
     <Cell ss:StyleID="Default"><Data ss:Type="String">b_02</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Dark Chocolate Squares</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Cuadrados de chocolate negro</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="Default"><Data ss:Type="String">b_02_desc</Data></Cell>
@@ -374,7 +374,7 @@
    </Row>
    <Row>
     <Cell ss:StyleID="Default"><Data ss:Type="String">b_03</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Milk Chocolate Squares</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Cuadrados de chocolate con leche</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="Default"><Data ss:Type="String">b_03_desc</Data></Cell>
@@ -382,7 +382,7 @@
    </Row>
    <Row>
     <Cell ss:StyleID="Default"><Data ss:Type="String">b_04</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Chocolate Squares w/Almonds</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Cuadrados de chocolate c/Almendras</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="Default"><Data ss:Type="String">b_04_desc</Data></Cell>
@@ -390,7 +390,7 @@
    </Row>
    <Row>
     <Cell ss:StyleID="Default"><Data ss:Type="String">b_05</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Chocolate Squares w/Cashews</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Cuadrados de chocolate c/Anacardos</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="Default"><Data ss:Type="String">b_05_desc</Data></Cell>
@@ -398,7 +398,7 @@
    </Row>
    <Row>
     <Cell ss:StyleID="Default"><Data ss:Type="String">b_06</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Chocolate Squares w/Coffee</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Cuadrados de chocolate w/Cafe</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="Default"><Data ss:Type="String">b_06_desc</Data></Cell>
@@ -406,7 +406,7 @@
    </Row>
    <Row>
     <Cell ss:StyleID="Default"><Data ss:Type="String">b_07</Data></Cell>
-    <Cell ss:StyleID="s27"><Data ss:Type="String">Chocolate Squares w/Orange</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Cuadrados de chocolate c/Naranja</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="Default"><Data ss:Type="String">b_07_desc</Data></Cell>
@@ -414,7 +414,7 @@
    </Row>
    <Row>
     <Cell ss:StyleID="Default"><Data ss:Type="String">b_08</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Chocolate Squares w/Lemon</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Cuadrados de chocolate c/Limon</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="Default"><Data ss:Type="String">b_08_desc</Data></Cell>
@@ -422,7 +422,7 @@
    </Row>
    <Row>
     <Cell ss:StyleID="Default"><Data ss:Type="String">b_09</Data></Cell>
-    <Cell ss:StyleID="s27"><Data ss:Type="String">Chocolate Squares w/Raspberry</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Cuadrados de chocolate c/Frambuesa</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="Default"><Data ss:Type="String">b_09_desc</Data></Cell>
@@ -430,7 +430,7 @@
    </Row>
    <Row>
     <Cell ss:StyleID="Default"><Data ss:Type="String">b_10</Data></Cell>
-    <Cell ss:StyleID="s27"><Data ss:Type="String">Chocolate Squares w/Hazelnuts</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Cuadrados de chocolate c/Avellanas</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="Default"><Data ss:Type="String">b_10_desc</Data></Cell>
@@ -438,7 +438,7 @@
    </Row>
    <Row>
     <Cell ss:StyleID="Default"><Data ss:Type="String">b_11</Data></Cell>
-    <Cell ss:StyleID="s27"><Data ss:Type="String">Chocolate Squares w/Pecans</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Cuadrados de chocolate c/Pacanas</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="Default"><Data ss:Type="String">b_11_desc</Data></Cell>
@@ -446,7 +446,7 @@
    </Row>
    <Row>
     <Cell ss:StyleID="Default"><Data ss:Type="String">b_12</Data></Cell>
-    <Cell ss:StyleID="s27"><Data ss:Type="String">Chocolate Covered Ants</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Hormigas bannadas en chocolate</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="Default"><Data ss:Type="String">b_12_desc</Data></Cell>
