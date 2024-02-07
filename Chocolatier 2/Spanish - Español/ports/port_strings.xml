@@ -64,11 +64,11 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">abidjan</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Abidjan</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Abiyan</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">amazon</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">The Amazon</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">El Amazonas</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">bombay</Data></Cell>
@@ -80,7 +80,7 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">cairo</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Cairo</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">El Cairo</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">casablanca</Data></Cell>
@@ -88,19 +88,19 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">cayenne</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Cayenne</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Cayena</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">fiji</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Fiji</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Fiyi</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">jakarta</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Jakarta</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Yakarta</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">himalayas</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">The Himalayas</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">El Himalaya</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">mahajanga</Data></Cell>
@@ -112,11 +112,11 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">moscow</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Moscow</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Moscu</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">newyork</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">New York</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Nueva York</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">paris</Data></Cell>
@@ -124,7 +124,7 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">sahara</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">The Sahara</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">El Sahara</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">sanfrancisco</Data></Cell>
@@ -140,7 +140,7 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">sydney</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Sydney</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Sidney</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">tasmania</Data></Cell>
@@ -164,15 +164,15 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">london</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">London</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Londres</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">accra</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Accra</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Acra</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">istanbul</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Istanbul</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Estambul</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">colombo</Data></Cell>
@@ -180,7 +180,7 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">sulawesi</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Sulawesi</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Célebes</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">hongkong</Data></Cell>
