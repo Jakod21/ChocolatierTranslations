@@ -212,19 +212,19 @@
    </Row>
    <Row>
     <Cell><Data ss:Type="String">am_hut</Data></Cell>
-    <Cell><Data ss:Type="String">Pentibo's Hut</Data></Cell>
+    <Cell><Data ss:Type="String">Choza de Pentibo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ba_market</Data></Cell>
-    <Cell><Data ss:Type="String">Abasto Market</Data></Cell>
+    <Cell><Data ss:Type="String">Mercado de Abasto</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">ba_shop</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Julio's Chocolates</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Chocolates de Julio</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">ba_lab</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Chocolate Tasting Laboratory</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Laboratorio de pruebas de chocolate</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">ba_teatro</Data></Cell>
@@ -416,11 +416,11 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">ny_market</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Bowery Market</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Mercado Bowery</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">ny_shop</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Park Avenue Sweets Shop</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Tienda de dulces Park Avenue</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">ny_factory</Data></Cell>
@@ -428,15 +428,15 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">ny_library</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Public Library</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Biblioteca publica</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">ny_bar</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">The Village Pub</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Pub The Village</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">ny_den</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">The Blind Pig</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">El Cerdo Ciego</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">pa_market</Data></Cell>
@@ -472,11 +472,11 @@
    </Row>
    <Row>
     <Cell><Data ss:Type="String">sf_market</Data></Cell>
-    <Cell><Data ss:Type="String">Ferry Market</Data></Cell>
+    <Cell><Data ss:Type="String">Mercado Ferry</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">sf_shop</Data></Cell>
-    <Cell><Data ss:Type="String">San Francisco Chocolates</Data></Cell>
+    <Cell><Data ss:Type="String">Chocolates San Francisco</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">sf_factory</Data></Cell>
@@ -484,15 +484,15 @@
    </Row>
    <Row>
     <Cell><Data ss:Type="String">sf_bchq</Data></Cell>
-    <Cell><Data ss:Type="String">Baumeister Confections H.Q.</Data></Cell>
+    <Cell><Data ss:Type="String">Sede Central de Confecciones Baumeister.</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">sf_bar</Data></Cell>
-    <Cell><Data ss:Type="String">Barbary Coast Hotel</Data></Cell>
+    <Cell><Data ss:Type="String">Hotel Barbary Coast</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">sf_bridge</Data></Cell>
-    <Cell><Data ss:Type="String">The Golden Gate Bridge</Data></Cell>
+    <Cell><Data ss:Type="String">Puente de Golden Gate</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">sh_shop</Data></Cell>
@@ -520,11 +520,11 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">sj_farm</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Irazu Plantation</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Plantacion Irazu</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">sj_market</Data></Cell>
-    <Cell><Data ss:Type="String">Teatro Square Market</Data></Cell>
+    <Cell><Data ss:Type="String">Mercado Central</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">sj_shop</Data></Cell>
